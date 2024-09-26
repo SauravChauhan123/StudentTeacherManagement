@@ -1,0 +1,776 @@
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.Development.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.staticwebassets.runtime.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.exe
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.deps.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.runtimeconfig.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.pdb
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Core.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\FluentValidation.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Humanizer.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.pdb
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.pdb
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.AssemblyReference.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfoInputs.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfo.cs
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.CoreCompileInputs.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cs
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.StudentTeacherManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentTeacherManagement.props
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentTeacherManagement.props
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentTeacherManagement.props
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\bundle\StudentTeacherManagement.styles.css
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\projectbundle\StudentTeacherManagement.bundle.scp.css
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentT.3707FD36.Up2Date
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\refint\StudentTeacherManagement.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.pdb
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.genruntimeconfig.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\ref\StudentTeacherManagement.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.Development.json
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.json
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.staticwebassets.runtime.json
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.exe
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.deps.json
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.runtimeconfig.json
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.pdb
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Core.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Identity.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\FluentValidation.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Humanizer.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.Contracts.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.CodeDom.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Memory.Data.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.dll
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.pdb
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.pdb
+E:\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.pdb
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.AssemblyReference.cache
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfoInputs.cache
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfo.cs
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.CoreCompileInputs.cache
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.MvcApplicationPartsAssemblyInfo.cache
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cache
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cs
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.build.json
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.development.json
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.StudentTeacherManagement.Microsoft.AspNetCore.StaticWebAssets.props
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentTeacherManagement.props
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentTeacherManagement.props
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentTeacherManagement.props
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.pack.json
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\bundle\StudentTeacherManagement.styles.css
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\projectbundle\StudentTeacherManagement.bundle.scp.css
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentT.3707FD36.Up2Date
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.dll
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\refint\StudentTeacherManagement.dll
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.pdb
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.genruntimeconfig.cache
+E:\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\ref\StudentTeacherManagement.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.Development.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.staticwebassets.runtime.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.exe
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.deps.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.runtimeconfig.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.pdb
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Core.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\FluentValidation.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Humanizer.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Text.Json.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.pdb
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.pdb
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.AssemblyReference.cache
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfoInputs.cache
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfo.cs
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.CoreCompileInputs.cache
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cache
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cs
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.StudentTeacherManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentTeacherManagement.props
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentTeacherManagement.props
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentTeacherManagement.props
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\bundle\StudentTeacherManagement.styles.css
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\projectbundle\StudentTeacherManagement.bundle.scp.css
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.CopyComplete
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\refint\StudentTeacherManagement.dll
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.pdb
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.genruntimeconfig.cache
+D:\Dotnet Test\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\ref\StudentTeacherManagement.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.staticwebassets.runtime.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.exe
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.deps.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.runtimeconfig.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.pdb
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Humanizer.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.pdb
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.pdb
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfo.cs
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cs
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.StudentTeacherManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentTeacherManagement.props
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentTeacherManagement.props
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentTeacherManagement.props
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\bundle\StudentTeacherManagement.styles.css
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\projectbundle\StudentTeacherManagement.bundle.scp.css
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentT.3707FD36.Up2Date
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\refint\StudentTeacherManagement.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.pdb
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.genruntimeconfig.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\ref\StudentTeacherManagement.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.Development.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\appsettings.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.staticwebassets.runtime.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.exe
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.deps.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.runtimeconfig.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\StudentTeacherManagement.pdb
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Core.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Azure.Identity.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\FluentValidation.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Humanizer.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\MediatR.Contracts.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.CodeDom.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Application.pdb
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\bin\Debug\net8.0\Infrastructure.pdb
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.AssemblyReference.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfoInputs.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.AssemblyInfo.cs
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.csproj.CoreCompileInputs.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.RazorAssemblyInfo.cs
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.build.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.development.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.StudentTeacherManagement.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.build.StudentTeacherManagement.props
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.StudentTeacherManagement.props
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.StudentTeacherManagement.props
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\bundle\StudentTeacherManagement.styles.css
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\scopedcss\projectbundle\StudentTeacherManagement.bundle.scp.css
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentT.3707FD36.Up2Date
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\refint\StudentTeacherManagement.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.pdb
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\StudentTeacherManagement.genruntimeconfig.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\OneToManyRelation\obj\Debug\net8.0\ref\StudentTeacherManagement.dll

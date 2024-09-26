@@ -1,0 +1,687 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\commandhandler\\addlanguagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\commandhandler\\addlanguagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\teacher\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\teacher\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\subject\\_validationscriptspartials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\subject\\_validationscriptspartials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\student\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\student\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\infrastructure\\custommiddleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\custommiddleware\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\infrastructure\\viewmodels\\subjectteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\viewmodels\\subjectteacherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\infrastructure\\viewmodels\\studentsubjectsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\viewmodels\\studentsubjectsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\infrastructure\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\viewmodels\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\infrastructure\\viewmodels\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797F04-3AEB-4421-8490-B60E54306F2F}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\viewmodels\\errordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\queryhandler\\getstudentsbyclassqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\queryhandler\\getstudentsbyclassqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\query\\getstudentsbyclassquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\query\\getstudentsbyclassquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\query\\getstudentsubjectsquery .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\query\\getstudentsubjectsquery .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\query\\getallteachersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\query\\getallteachersquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\query\\getallteacherbyclassquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\query\\getallteacherbyclassquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\commandhandler\\addstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\commandhandler\\addstudentcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\commandhandler\\addsubjectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\commandhandler\\addsubjectcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\commandhandler\\addteachercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\commandhandler\\addteachercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\commandhandler\\getlanguaagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\commandhandler\\getlanguaagecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\commandhandler\\getstudentscommandhandler cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\commandhandler\\getstudentscommandhandler cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\command\\addlanguagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\command\\addlanguagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\command\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\command\\addstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\command\\addsubjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\command\\addsubjectcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\command\\addteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\command\\addteachercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\command\\getlanguagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\command\\getlanguagecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\application\\common\\cqrs\\command\\getstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2969D40-1436-4CE8-94A4-4B1CA80569F4}|Application\\Application.csproj|solutionrelative:application\\common\\cqrs\\command\\getstudentcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\controllers\\student controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\controllers\\student controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\controllers\\teachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\views\\subject\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|d:\\dotnet test\\assignment\\onetomanyrelation\\onetomanyrelation\\studentteachermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{17F6AA47-EC76-4B0E-B2E8-4549DB770015}|OneToManyRelation\\StudentTeacherManagement.csproj|solutionrelative:onetomanyrelation\\studentteachermanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 32,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "OneToManyRelation\\appsettings.Development.json",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\appsettings.Development.json",
+              "RelativeToolTip": "OneToManyRelation\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T12:06:17.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:06:11.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:06:09.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Teacher\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\Teacher\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Teacher\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\Teacher\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:06:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartials.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Subject\\_ValidationScriptsPartials.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\Subject\\_ValidationScriptsPartials.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Subject\\_ValidationScriptsPartials.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\Subject\\_ValidationScriptsPartials.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:05:57.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Student\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\Student\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Student\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\Student\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:05:49.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:05:44.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T12:05:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\CustomMiddleware\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\CustomMiddleware\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\CustomMiddleware\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\CustomMiddleware\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:04:41.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SubjectTeacherViewModel.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\SubjectTeacherViewModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ViewModels\\SubjectTeacherViewModel.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\SubjectTeacherViewModel.cs",
+              "RelativeToolTip": "Infrastructure\\ViewModels\\SubjectTeacherViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:02:53.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentSubjectsVm.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\StudentSubjectsVm.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ViewModels\\StudentSubjectsVm.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\StudentSubjectsVm.cs",
+              "RelativeToolTip": "Infrastructure\\ViewModels\\StudentSubjectsVm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:01:33.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentListViewModel.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\StudentListViewModel.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ViewModels\\StudentListViewModel.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\StudentListViewModel.cs",
+              "RelativeToolTip": "Infrastructure\\ViewModels\\StudentListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:01:01.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorDetails.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\ErrorDetails.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\ViewModels\\ErrorDetails.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Infrastructure\\ViewModels\\ErrorDetails.cs",
+              "RelativeToolTip": "Infrastructure\\ViewModels\\ErrorDetails.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:00:27.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetStudentsCommandHandler cs.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\GetStudentsCommandHandler cs.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\CommandHandler\\GetStudentsCommandHandler cs.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\GetStudentsCommandHandler cs.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\CommandHandler\\GetStudentsCommandHandler cs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:53:01.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetLanguaageCommandHandler.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\GetLanguaageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\CommandHandler\\GetLanguaageCommandHandler.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\GetLanguaageCommandHandler.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\CommandHandler\\GetLanguaageCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:52:27.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddTeacherCommandHandler.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddTeacherCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\CommandHandler\\AddTeacherCommandHandler.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddTeacherCommandHandler.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\CommandHandler\\AddTeacherCommandHandler.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:51:56.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Application\\DependencyInjection.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\DependencyInjection.cs",
+              "RelativeToolTip": "Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:51:41.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetStudentsByClassQueryHandler.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\QueryHandler\\GetStudentsByClassQueryHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\QueryHandler\\GetStudentsByClassQueryHandler.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\QueryHandler\\GetStudentsByClassQueryHandler.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\QueryHandler\\GetStudentsByClassQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:51:31.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetStudentSubjectsQuery .cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetStudentSubjectsQuery .cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Query\\GetStudentSubjectsQuery .cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetStudentSubjectsQuery .cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Query\\GetStudentSubjectsQuery .cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:51:28.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetStudentsByClassQuery.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetStudentsByClassQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Query\\GetStudentsByClassQuery.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetStudentsByClassQuery.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Query\\GetStudentsByClassQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:51:26.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetAllTeacherByClassQuery.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetAllTeacherByClassQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Query\\GetAllTeacherByClassQuery.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetAllTeacherByClassQuery.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Query\\GetAllTeacherByClassQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:51:22.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddSubjectCommandHandler.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddSubjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\CommandHandler\\AddSubjectCommandHandler.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddSubjectCommandHandler.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\CommandHandler\\AddSubjectCommandHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:49:43.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddLanguageCommandHandler.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddLanguageCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\CommandHandler\\AddLanguageCommandHandler.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddLanguageCommandHandler.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\CommandHandler\\AddLanguageCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:47:22.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetStudentCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\GetStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Command\\GetStudentCommand.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\GetStudentCommand.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Command\\GetStudentCommand.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwCcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:45:54.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetLanguageCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\GetLanguageCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Command\\GetLanguageCommand.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\GetLanguageCommand.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Command\\GetLanguageCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:45:32.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddTeacherCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddTeacherCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Command\\AddTeacherCommand.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddTeacherCommand.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Command\\AddTeacherCommand.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:41:18.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddSubjectCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddSubjectCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Command\\AddSubjectCommand.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddSubjectCommand.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Command\\AddSubjectCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:39:44.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AddStudentCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddStudentCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Command\\AddStudentCommand.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddStudentCommand.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Command\\AddStudentCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:38:58.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AddLanguageCommand.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddLanguageCommand.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Command\\AddLanguageCommand.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Command\\AddLanguageCommand.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Command\\AddLanguageCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:37:40.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Program.cs",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Program.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Program.cs",
+              "RelativeToolTip": "OneToManyRelation\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:36:33.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TeacherController.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\TeacherController.cs",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Controllers\\TeacherController.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\TeacherController.cs",
+              "RelativeToolTip": "OneToManyRelation\\Controllers\\TeacherController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:05:21.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\appsettings.json",
+              "RelativeDocumentMoniker": "OneToManyRelation\\appsettings.json",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\appsettings.json",
+              "RelativeToolTip": "OneToManyRelation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-22T11:17:26.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Subject\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Views\\Subject\\Index.cshtml",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Views\\Subject\\Index.cshtml",
+              "RelativeToolTip": "OneToManyRelation\\Views\\Subject\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-22T11:09:26.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\SubjectController.cs",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Controllers\\SubjectController.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\SubjectController.cs",
+              "RelativeToolTip": "OneToManyRelation\\Controllers\\SubjectController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:05:21.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetAllTeachersQuery.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetAllTeachersQuery.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\Query\\GetAllTeachersQuery.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\Query\\GetAllTeachersQuery.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\Query\\GetAllTeachersQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwv1gAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:05:21.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AddStudentCommandHandler.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddStudentCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\Common\\CQRS\\CommandHandler\\AddStudentCommandHandler.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\Application\\Common\\CQRS\\CommandHandler\\AddStudentCommandHandler.cs",
+              "RelativeToolTip": "Application\\Common\\CQRS\\CommandHandler\\AddStudentCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:05:21.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Student Controller.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\Student Controller.cs",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Controllers\\Student Controller.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\Student Controller.cs",
+              "RelativeToolTip": "OneToManyRelation\\Controllers\\Student Controller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:05:11.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OneToManyRelation\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OneToManyRelation\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T11:05:10.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "StudentTeacherManagement",
+              "DocumentMoniker": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\StudentTeacherManagement.csproj",
+              "RelativeDocumentMoniker": "OneToManyRelation\\StudentTeacherManagement.csproj",
+              "ToolTip": "D:\\Dotnet Test\\Assignment\\OneToManyRelation\\OneToManyRelation\\StudentTeacherManagement.csproj",
+              "RelativeToolTip": "OneToManyRelation\\StudentTeacherManagement.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-22T11:05:06.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

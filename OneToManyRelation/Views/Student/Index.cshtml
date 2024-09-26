@@ -1,0 +1,162 @@
+﻿@model Infrastructure.ViewModels.StudentListViewModel
+<style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background-color: #f4f4f4;
+        margin: 0;
+        padding: 20px;
+    }
+
+    h2 {
+        text-align: center;
+        color: #333;
+    }
+
+    form {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 20px;
+        gap: 20px;
+    }
+
+        form div {
+            display: flex;
+            flex-direction: column;
+        }
+
+    label {
+        margin-bottom: 5px;
+        font-weight: bold;
+        color: #555;
+    }
+
+    input[type="text"],
+    select {
+        padding: 10px;
+        border-radius: 5px;
+        border: 1px solid #ddd;
+        font-size: 1em;
+        width: 200px;
+    }
+
+    .submit {
+        position: relative;
+        top: 26px;
+    }
+
+    button {
+        padding: 5px 15px;
+        height: 46px;
+        border: none;
+        border-radius: 5px;
+        background-color: #007bff;
+        color: white;
+        font-size: 1em;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+    }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+    table {
+        width: 100%;
+        margin-top: 20px;
+        border-collapse: collapse;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+        table thead {
+            background-color: #007bff;
+            color: white;
+        }
+
+        table th, table td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        table th {
+            text-transform: uppercase;
+            font-size: 0.9em;
+        }
+
+        table tbody tr:hover {
+            background-color: #f1f1f1;
+        }
+
+        table tbody tr:nth-child(even) {
+            background-color: #f9f9f9;
+        }
+
+    .action-links a {
+        text-decoration: none;
+        color: #007bff;
+        transition: color 0.3s ease;
+    }
+
+        .action-links a:hover {
+            color: #0056b3;
+        }
+</style>
+
+<h2>Student List</h2>
+
+<form method="get" asp-controller="Student" asp-action="Index">
+    <div>
+        <label for="searchTerm">Search by Name:</label>
+        <input type="text" id="searchTerm" name="searchTerm" value="@Model.SearchTerm" placeholder="Enter student name" />
+    </div>
+    <div>
+        <label for="studentClass">Filter by Class:</label>
+        <select id="studentClass" name="studentClass">
+            <option value="">All Classes</option>
+            <option value="1">Class 1</option>
+            <option value="2">Class 2</option>
+            <option value="3">Class 3</option>
+            <option value="4">Class 4</option>
+            <option value="5">Class 5</option>
+            <option value="6">Class 6</option>
+            <option value="7">Class 7</option>
+            <option value="8">Class 8</option>
+            <option value="9">Class 9</option>
+            <option value="10">Class 10</option>
+            <option value="11">Class 11</option>
+            <option value="12">Class 12</option>
+            <!-- Add more classes as needed -->
+        </select>
+    </div>
+    <button class="submit" type="submit">Search</button>
+    <button class="submit">
+        <a class="nav-link text-dark" asp-area="" asp-controller="Student" asp-action="Create">Add Student</a>
+    </button>
+</form>
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Class</th>
+            <th>Roll Number</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Class</td>
+                <td>@student.RollNumber</td>
+                <td class="action-links">
+                    <a asp-controller="Student" asp-action="SubjectList" asp-route-studentId="@student.Id">View Subjects</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

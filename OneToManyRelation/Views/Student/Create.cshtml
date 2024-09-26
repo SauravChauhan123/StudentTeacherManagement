@@ -1,0 +1,95 @@
+﻿@model Application.Common.CQRS.Command.AddStudentCommand
+
+@{
+    ViewData["Title"] = "Create Student";
+}
+
+<h2>Create Student</h2>
+
+@if (!ViewData.ModelState.IsValid)
+{
+    <div class="alert alert-danger">
+        @foreach (var error in ViewData.ModelState.Values.SelectMany(v => v.Errors))
+        {
+            <div>@error.ErrorMessage</div>
+        }
+    </div>
+}
+<form asp-action="Create" enctype="multipart/form-data">
+    <div class="form-group">
+        <label asp-for="Name" class="control-label"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Age" class="control-label"></label>
+        <input asp-for="Age" class="form-control" />
+        <span asp-validation-for="Age" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ImageFile" class="control-label"></label>
+        <input asp-for="ImageFile" class="form-control" type="file" />
+        <span asp-validation-for="ImageFile" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Class" class="control-label"></label>
+        <input asp-for="Class" class="form-control" id="studentClass" />
+        <span asp-validation-for="Class" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="RollNumber" class="control-label"></label>
+        <input asp-for="RollNumber" class="form-control" />
+        <span asp-validation-for="RollNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label>Teachers</label>
+        <div id="teachersContainer">
+            <!-- Teachers checkboxes will be populated here dynamically -->
+        </div>
+        <span class="text-danger" id="teachersError"></span>
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
+
+@section Scripts {
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('#studentClass').on('change', function () {
+                var selectedClass = $(this).val();
+                if (selectedClass) {
+                    $.ajax({
+                        url: '@Url.Action("GetTeachersByClass", "Student")',
+                        type: 'GET',
+                        data: { className: selectedClass },
+                        success: function (response) {
+                            var teachersContainer = $('#teachersContainer');
+                            teachersContainer.empty();
+                            if (response.length > 0) {
+                                $.each(response, function (index, teacher) {
+                                    teachersContainer.append(
+                                        '<div class="form-check">' +
+                                        '<input type="checkbox" class="form-check-input" id="teacher_' + teacher.id + '" name="TeacherId[]" value="' + teacher.id + '">' +
+                                        '<label class="form-check-label" for="teacher_' + teacher.id + '">' + teacher.name + '</label>' +
+                                        '</div>'
+                                    );
+                                });
+                            } else {
+                                teachersContainer.append('<p>No teachers available for this class.</p>');
+                            }
+                        },
+                        error: function () {
+                            $('#teachersError').text('Error fetching teachers. Please try again.');
+                        }
+                    });
+                } else {
+                    $('#teachersContainer').empty();
+                }
+            });
+        });
+    </script>
+
+}

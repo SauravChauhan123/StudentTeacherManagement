@@ -1,0 +1,70 @@
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Dotnet Test\New Test File\OneToManyRelation\Domain\obj\Debug\net8.0\ref\Domain.dll
+E:\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+E:\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.dll
+E:\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.pdb
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.dll
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.pdb
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+E:\OneToManyRelation\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Dotnet Test\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Dotnet Test\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Dotnet Test\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.dll
+D:\Dotnet Test\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.dll
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Dotnet Test\OneToManyRelation\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+C:\Users\DOTNET\Downloads\OneToManyRelation\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Dotnet Test\Assignment\OneToManyRelation\Domain\obj\Debug\net8.0\ref\Domain.dll

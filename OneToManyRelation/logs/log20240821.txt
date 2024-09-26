@@ -1,0 +1,1157 @@
+2024-08-21 11:26:51.478 +05:30 [INF] Starting web application
+2024-08-21 11:26:52.400 +05:30 [INF] HTTP GET / responded 200 in 134.8928 ms
+2024-08-21 11:26:52.428 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 4.3290 ms
+2024-08-21 11:26:52.442 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 1.8138 ms
+2024-08-21 11:26:52.435 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 0.0866 ms
+2024-08-21 11:26:52.435 +05:30 [INF] HTTP GET /css/site.css responded 304 in 0.4320 ms
+2024-08-21 11:26:52.443 +05:30 [INF] HTTP GET /js/site.js responded 304 in 0.1501 ms
+2024-08-21 11:26:52.435 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 304 in 0.4334 ms
+2024-08-21 11:56:00.761 +05:30 [INF] Starting web application
+2024-08-21 11:56:02.024 +05:30 [INF] HTTP GET / responded 200 in 136.7030 ms
+2024-08-21 11:56:02.070 +05:30 [INF] HTTP GET /css/site.css responded 304 in 24.9886 ms
+2024-08-21 11:56:02.071 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 25.2251 ms
+2024-08-21 11:56:02.070 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 33.0865 ms
+2024-08-21 11:56:02.070 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 304 in 25.0123 ms
+2024-08-21 11:56:02.070 +05:30 [INF] HTTP GET /js/site.js responded 304 in 2.5089 ms
+2024-08-21 11:56:02.075 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 2.3943 ms
+2024-08-21 11:56:39.559 +05:30 [INF] Starting web application
+2024-08-21 11:56:40.951 +05:30 [INF] HTTP GET / responded 200 in 84.3772 ms
+2024-08-21 11:56:40.971 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 2.8988 ms
+2024-08-21 11:56:44.727 +05:30 [INF] HTTP GET /Home/Privacy responded 200 in 4.8356 ms
+2024-08-21 11:56:44.739 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1164 ms
+2024-08-21 11:56:45.430 +05:30 [INF] HTTP GET / responded 200 in 0.7941 ms
+2024-08-21 11:56:45.445 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1034 ms
+2024-08-21 11:56:45.870 +05:30 [INF] HTTP GET / responded 200 in 0.6648 ms
+2024-08-21 11:56:45.901 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1195 ms
+2024-08-21 11:56:47.132 +05:30 [INF] HTTP GET / responded 200 in 0.7427 ms
+2024-08-21 11:56:47.144 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1067 ms
+2024-08-21 11:56:47.797 +05:30 [INF] HTTP GET /Home/Privacy responded 200 in 1.1182 ms
+2024-08-21 11:56:47.809 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1089 ms
+2024-08-21 11:56:48.973 +05:30 [INF] HTTP GET / responded 200 in 0.5737 ms
+2024-08-21 11:56:48.989 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1573 ms
+2024-08-21 11:56:49.564 +05:30 [INF] HTTP GET / responded 200 in 1.0350 ms
+2024-08-21 11:56:49.576 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1125 ms
+2024-08-21 12:13:43.779 +05:30 [ERR] Failed executing DbCommand (25ms) [Parameters=[], CommandType='"Text"', CommandTimeout='60']
+CREATE DATABASE [SDTDB];
+2024-08-21 12:21:48.738 +05:30 [INF] Starting web application
+2024-08-21 12:21:50.296 +05:30 [INF] HTTP GET / responded 200 in 137.6337 ms
+2024-08-21 12:21:50.322 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 9.4417 ms
+2024-08-21 12:21:50.353 +05:30 [INF] HTTP GET /css/site.css responded 200 in 40.4377 ms
+2024-08-21 12:21:50.353 +05:30 [INF] HTTP GET /js/site.js responded 200 in 36.3312 ms
+2024-08-21 12:21:50.359 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 200 in 46.7997 ms
+2024-08-21 12:21:50.360 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 48.0451 ms
+2024-08-21 12:21:50.363 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 53.5254 ms
+2024-08-21 12:21:51.223 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 2.6864 ms
+2024-08-21 12:23:16.305 +05:30 [INF] Starting web application
+2024-08-21 12:23:16.692 +05:30 [INF] HTTP GET / responded 200 in 115.0833 ms
+2024-08-21 12:23:16.740 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 22.8754 ms
+2024-08-21 12:23:16.791 +05:30 [INF] HTTP GET /css/site.css responded 200 in 72.8000 ms
+2024-08-21 12:23:16.791 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 35.0130 ms
+2024-08-21 12:23:16.791 +05:30 [INF] HTTP GET /js/site.js responded 200 in 38.4920 ms
+2024-08-21 12:23:16.793 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 200 in 50.5440 ms
+2024-08-21 12:23:16.801 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 96.1293 ms
+2024-08-21 12:23:17.679 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 3.1772 ms
+2024-08-21 12:23:18.163 +05:30 [INF] HTTP GET /Student/Create responded 200 in 40.7533 ms
+2024-08-21 12:23:18.184 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.2997 ms
+2024-08-21 12:23:18.187 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 200 in 3.5862 ms
+2024-08-21 12:23:18.188 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 200 in 4.7116 ms
+2024-08-21 12:29:06.162 +05:30 [INF] Starting web application
+2024-08-21 12:29:06.496 +05:30 [INF] HTTP GET / responded 200 in 103.6150 ms
+2024-08-21 12:29:06.520 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 5.6651 ms
+2024-08-21 12:29:09.323 +05:30 [INF] HTTP GET /Student/Create responded 200 in 41.0525 ms
+2024-08-21 12:29:09.336 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1270 ms
+2024-08-21 12:29:36.702 +05:30 [INF] HTTP POST /Student/Create responded 200 in 63.3543 ms
+2024-08-21 12:29:36.714 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1510 ms
+2024-08-21 12:30:44.982 +05:30 [INF] Starting web application
+2024-08-21 12:30:45.327 +05:30 [INF] HTTP GET / responded 200 in 100.0388 ms
+2024-08-21 12:30:45.358 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 9.8060 ms
+2024-08-21 12:30:50.706 +05:30 [INF] HTTP GET /Student/Create responded 200 in 50.2575 ms
+2024-08-21 12:30:50.724 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1242 ms
+2024-08-21 12:31:07.767 +05:30 [INF] HTTP POST /Student/Create responded 200 in 56.7634 ms
+2024-08-21 12:31:07.780 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1545 ms
+2024-08-21 12:32:29.384 +05:30 [INF] Starting web application
+2024-08-21 12:32:29.743 +05:30 [INF] HTTP GET / responded 200 in 108.8536 ms
+2024-08-21 12:32:29.756 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 3.5308 ms
+2024-08-21 12:32:29.762 +05:30 [INF] HTTP GET /css/site.css responded 304 in 0.9781 ms
+2024-08-21 12:32:29.762 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 0.7214 ms
+2024-08-21 12:32:29.765 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 0.8723 ms
+2024-08-21 12:32:29.766 +05:30 [INF] HTTP GET /js/site.js responded 304 in 0.1128 ms
+2024-08-21 12:32:29.778 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 17.5874 ms
+2024-08-21 12:32:33.614 +05:30 [INF] HTTP GET /Student/Create responded 200 in 37.6528 ms
+2024-08-21 12:32:33.629 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 0.3003 ms
+2024-08-21 12:32:33.629 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 0.3041 ms
+2024-08-21 12:32:33.629 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.3130 ms
+2024-08-21 12:32:53.614 +05:30 [ERR] HTTP POST /Student/Create responded 500 in 5803.2167 ms
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Common.CQRS.Command.AddStudentCommand,System.Int32]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at OneToManyRelation.Controllers.StudentController.Create(AddStudentCommand command) in E:\OneToManyRelation\OneToManyRelation\Controllers\Student Controller.cs:line 31
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 12:33:14.383 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: No service for type 'MediatR.IRequestHandler`2[Application.Common.CQRS.Command.AddStudentCommand,System.Int32]' has been registered.
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService(IServiceProvider provider, Type serviceType)
+   at Microsoft.Extensions.DependencyInjection.ServiceProviderServiceExtensions.GetRequiredService[T](IServiceProvider provider)
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.<>c__DisplayClass1_0.<Handle>g__Handler|0()
+   at MediatR.Wrappers.RequestHandlerWrapperImpl`2.Handle(IRequest`1 request, IServiceProvider serviceProvider, CancellationToken cancellationToken)
+   at MediatR.Mediator.Send[TResponse](IRequest`1 request, CancellationToken cancellationToken)
+   at OneToManyRelation.Controllers.StudentController.Create(AddStudentCommand command) in E:\OneToManyRelation\OneToManyRelation\Controllers\Student Controller.cs:line 31
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in E:\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+2024-08-21 12:34:07.982 +05:30 [INF] Starting web application
+2024-08-21 12:34:08.318 +05:30 [INF] HTTP GET / responded 200 in 103.5595 ms
+2024-08-21 12:34:08.334 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 3.2730 ms
+2024-08-21 12:34:10.744 +05:30 [INF] HTTP GET /Student/Create responded 200 in 40.3940 ms
+2024-08-21 12:34:10.764 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.3536 ms
+2024-08-21 12:34:48.382 +05:30 [INF] HTTP POST /Student/Create responded 302 in 25943.4471 ms
+2024-08-21 12:34:48.664 +05:30 [ERR] The view 'Index' was not found. Searched locations: ["/Views/Student/Index.cshtml","/Views/Shared/Index.cshtml"]
+2024-08-21 12:34:48.669 +05:30 [ERR] HTTP GET /Student responded 500 in 279.5188 ms
+System.InvalidOperationException: The view 'Index' was not found. The following locations were searched:
+/Views/Student/Index.cshtml
+/Views/Shared/Index.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 12:34:48.747 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: The view 'Index' was not found. The following locations were searched:
+/Views/Student/Index.cshtml
+/Views/Shared/Index.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in E:\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+2024-08-21 12:36:04.625 +05:30 [INF] Starting web application
+2024-08-21 12:36:04.958 +05:30 [INF] HTTP GET / responded 200 in 101.8581 ms
+2024-08-21 12:36:04.981 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 7.0074 ms
+2024-08-21 12:36:06.123 +05:30 [INF] HTTP GET /Student/Create responded 200 in 42.5476 ms
+2024-08-21 12:36:06.139 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1568 ms
+2024-08-21 12:36:29.692 +05:30 [INF] HTTP POST /Student/Create responded 302 in 4940.4754 ms
+2024-08-21 12:36:29.944 +05:30 [INF] HTTP GET /Student responded 200 in 240.7715 ms
+2024-08-21 12:36:29.956 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1540 ms
+2024-08-21 12:55:55.290 +05:30 [INF] Starting web application
+2024-08-21 12:55:55.624 +05:30 [INF] HTTP GET / responded 200 in 105.8446 ms
+2024-08-21 12:55:55.652 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 0.8554 ms
+2024-08-21 12:55:55.652 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 5.6661 ms
+2024-08-21 12:55:55.653 +05:30 [INF] HTTP GET /css/site.css responded 304 in 13.8474 ms
+2024-08-21 12:55:55.653 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 16.6736 ms
+2024-08-21 12:55:55.656 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 16.3661 ms
+2024-08-21 12:55:55.657 +05:30 [INF] HTTP GET /js/site.js responded 304 in 0.1683 ms
+2024-08-21 12:55:59.765 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 1604.2892 ms
+2024-08-21 12:55:59.777 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.5006 ms
+2024-08-21 12:56:24.186 +05:30 [INF] HTTP GET /Student responded 404 in 0.0837 ms
+2024-08-21 13:00:00.574 +05:30 [INF] Starting web application
+2024-08-21 13:00:00.914 +05:30 [INF] HTTP GET / responded 200 in 98.3461 ms
+2024-08-21 13:00:00.961 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 9.5851 ms
+2024-08-21 13:01:55.257 +05:30 [INF] Starting web application
+2024-08-21 13:01:55.641 +05:30 [INF] HTTP GET / responded 200 in 156.1364 ms
+2024-08-21 13:01:55.672 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 14.9364 ms
+2024-08-21 13:01:59.518 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 1564.9724 ms
+2024-08-21 13:01:59.531 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1356 ms
+2024-08-21 13:02:08.365 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 134.5666 ms
+2024-08-21 13:02:08.376 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1373 ms
+2024-08-21 13:02:13.441 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 49.3395 ms
+2024-08-21 13:02:13.454 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1041 ms
+2024-08-21 13:02:35.296 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 4502.4612 ms
+2024-08-21 13:02:35.319 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1063 ms
+2024-08-21 13:02:51.493 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 8030.9223 ms
+2024-08-21 13:02:51.507 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1021 ms
+2024-08-21 13:03:03.757 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 1324.5343 ms
+2024-08-21 13:03:03.769 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1137 ms
+2024-08-21 13:03:44.241 +05:30 [INF] Starting web application
+2024-08-21 13:03:44.578 +05:30 [INF] HTTP GET / responded 200 in 104.1781 ms
+2024-08-21 13:03:44.681 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 11.1737 ms
+2024-08-21 13:03:50.917 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 3121.0775 ms
+2024-08-21 13:03:50.929 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1452 ms
+2024-08-21 13:03:57.330 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1796 ms
+2024-08-21 13:03:58.372 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css.map responded 200 in 12.7083 ms
+2024-08-21 13:06:00.306 +05:30 [INF] Starting web application
+2024-08-21 13:06:00.645 +05:30 [INF] HTTP GET / responded 200 in 102.1895 ms
+2024-08-21 13:06:00.676 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 10.1515 ms
+2024-08-21 13:06:05.713 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 3020.1754 ms
+2024-08-21 13:06:05.728 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1350 ms
+2024-08-21 13:06:16.593 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1845 ms
+2024-08-21 13:08:00.587 +05:30 [INF] Starting web application
+2024-08-21 13:08:00.921 +05:30 [INF] HTTP GET / responded 200 in 104.1175 ms
+2024-08-21 13:08:00.935 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 3.5065 ms
+2024-08-21 13:08:00.948 +05:30 [INF] HTTP GET /css/site.css responded 304 in 3.1401 ms
+2024-08-21 13:08:00.950 +05:30 [INF] HTTP GET /js/site.js responded 304 in 0.9824 ms
+2024-08-21 13:08:00.954 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 0.2581 ms
+2024-08-21 13:08:00.955 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 0.9132 ms
+2024-08-21 13:08:00.961 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 17.9945 ms
+2024-08-21 13:08:06.115 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 2829.6085 ms
+2024-08-21 13:08:06.133 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.2198 ms
+2024-08-21 13:08:33.304 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 2188.6357 ms
+2024-08-21 13:08:33.321 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.3590 ms
+2024-08-21 13:08:33.684 +05:30 [INF] HTTP GET /favicon.ico responded 304 in 0.6602 ms
+2024-08-21 13:08:37.096 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.6219 ms
+2024-08-21 13:09:47.057 +05:30 [INF] Starting web application
+2024-08-21 13:09:47.395 +05:30 [INF] HTTP GET / responded 200 in 109.1885 ms
+2024-08-21 13:09:47.421 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 11.1904 ms
+2024-08-21 13:09:51.282 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 2779.8285 ms
+2024-08-21 13:09:51.303 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 1.7992 ms
+2024-08-21 13:10:19.113 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 1309.7194 ms
+2024-08-21 13:10:19.125 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1080 ms
+2024-08-21 13:10:24.618 +05:30 [INF] HTTP GET /Student/StudentList responded 200 in 1599.9734 ms
+2024-08-21 13:10:24.630 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1101 ms
+2024-08-21 13:22:49.967 +05:30 [INF] Starting web application
+2024-08-21 13:22:50.341 +05:30 [INF] HTTP GET / responded 200 in 99.2118 ms
+2024-08-21 13:22:50.383 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 10.1368 ms
+2024-08-21 13:22:50.390 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 3.5662 ms
+2024-08-21 13:22:50.391 +05:30 [INF] HTTP GET /css/site.css responded 304 in 20.9027 ms
+2024-08-21 13:22:50.391 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 23.1259 ms
+2024-08-21 13:22:50.391 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 6.7429 ms
+2024-08-21 13:22:50.391 +05:30 [INF] HTTP GET /js/site.js responded 304 in 2.1898 ms
+2024-08-21 13:22:54.910 +05:30 [INF] HTTP GET /Student responded 200 in 3004.1491 ms
+2024-08-21 13:22:54.928 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1283 ms
+2024-08-21 13:23:55.693 +05:30 [INF] Starting web application
+2024-08-21 13:23:56.063 +05:30 [INF] HTTP GET / responded 200 in 112.7148 ms
+2024-08-21 13:23:56.104 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 19.6076 ms
+2024-08-21 13:24:01.150 +05:30 [INF] HTTP GET /Student responded 200 in 2811.8992 ms
+2024-08-21 13:24:01.169 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.2060 ms
+2024-08-21 13:51:28.871 +05:30 [INF] Starting web application
+2024-08-21 13:51:29.203 +05:30 [INF] HTTP GET / responded 200 in 102.8439 ms
+2024-08-21 13:51:29.255 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 16.0495 ms
+2024-08-21 13:51:29.261 +05:30 [INF] HTTP GET /js/site.js responded 304 in 6.8463 ms
+2024-08-21 13:51:29.261 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 32.3174 ms
+2024-08-21 13:51:29.261 +05:30 [INF] HTTP GET /css/site.css responded 304 in 32.3197 ms
+2024-08-21 13:51:29.261 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 7.0686 ms
+2024-08-21 13:51:29.261 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 8.1721 ms
+2024-08-21 13:51:34.701 +05:30 [INF] HTTP GET /Student responded 200 in 2970.9891 ms
+2024-08-21 13:51:34.714 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1451 ms
+2024-08-21 13:52:01.796 +05:30 [INF] HTTP GET /Student responded 200 in 2400.4145 ms
+2024-08-21 13:52:01.809 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.9639 ms
+2024-08-21 13:52:02.125 +05:30 [INF] HTTP GET /favicon.ico responded 304 in 0.2415 ms
+2024-08-21 13:52:06.406 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1689 ms
+2024-08-21 13:52:07.404 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css.map responded 304 in 0.1188 ms
+2024-08-21 13:53:04.478 +05:30 [INF] Starting web application
+2024-08-21 13:53:04.816 +05:30 [INF] HTTP GET / responded 200 in 102.1319 ms
+2024-08-21 13:53:04.896 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 12.8617 ms
+2024-08-21 13:53:09.738 +05:30 [INF] HTTP GET /Student responded 200 in 3168.0815 ms
+2024-08-21 13:53:09.753 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1538 ms
+2024-08-21 13:53:19.617 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.9067 ms
+2024-08-21 13:54:15.232 +05:30 [INF] Starting web application
+2024-08-21 13:54:15.566 +05:30 [INF] HTTP GET / responded 200 in 99.5866 ms
+2024-08-21 13:54:15.582 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 1.9726 ms
+2024-08-21 13:54:24.618 +05:30 [INF] HTTP GET /Student responded 200 in 7506.4598 ms
+2024-08-21 13:54:24.633 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1496 ms
+2024-08-21 13:54:27.966 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.2124 ms
+2024-08-21 13:55:51.819 +05:30 [INF] Starting web application
+2024-08-21 13:55:52.160 +05:30 [INF] HTTP GET / responded 200 in 105.1948 ms
+2024-08-21 13:55:52.189 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 7.3875 ms
+2024-08-21 13:55:54.892 +05:30 [INF] HTTP GET /Student responded 200 in 1480.0337 ms
+2024-08-21 13:55:54.912 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1657 ms
+2024-08-21 13:56:17.230 +05:30 [INF] Starting web application
+2024-08-21 13:56:17.565 +05:30 [INF] HTTP GET / responded 200 in 102.2938 ms
+2024-08-21 13:56:17.596 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 11.5838 ms
+2024-08-21 13:56:20.387 +05:30 [INF] HTTP GET /Student responded 200 in 1523.5743 ms
+2024-08-21 13:56:20.408 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1874 ms
+2024-08-21 13:56:26.098 +05:30 [INF] HTTP GET /Student/Create responded 200 in 36.4110 ms
+2024-08-21 13:56:26.121 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1032 ms
+2024-08-21 13:56:26.128 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 6.8156 ms
+2024-08-21 13:56:26.128 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 6.7803 ms
+2024-08-21 13:57:46.712 +05:30 [INF] Starting web application
+2024-08-21 13:57:47.046 +05:30 [INF] HTTP GET / responded 200 in 104.7160 ms
+2024-08-21 13:57:47.072 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 6.8510 ms
+2024-08-21 13:57:50.011 +05:30 [INF] HTTP GET /Student responded 200 in 1573.0461 ms
+2024-08-21 13:57:50.030 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1646 ms
+2024-08-21 13:57:51.839 +05:30 [INF] HTTP GET /Student/Create responded 200 in 35.8629 ms
+2024-08-21 13:57:51.851 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1098 ms
+2024-08-21 13:58:15.967 +05:30 [INF] HTTP POST /Student/Create responded 302 in 322.4517 ms
+2024-08-21 13:58:16.579 +05:30 [INF] HTTP GET /Student responded 200 in 606.8598 ms
+2024-08-21 13:58:16.592 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1277 ms
+2024-08-21 14:06:59.567 +05:30 [INF] Starting web application
+2024-08-21 14:06:59.915 +05:30 [INF] HTTP GET / responded 200 in 106.1436 ms
+2024-08-21 14:06:59.942 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 8.3580 ms
+2024-08-21 14:07:03.959 +05:30 [INF] HTTP GET /Student responded 200 in 1988.8166 ms
+2024-08-21 14:07:03.977 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1714 ms
+2024-08-21 14:07:33.262 +05:30 [INF] Starting web application
+2024-08-21 14:07:33.601 +05:30 [INF] HTTP GET / responded 200 in 107.6347 ms
+2024-08-21 14:07:33.633 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 10.0636 ms
+2024-08-21 14:07:35.262 +05:30 [ERR] HTTP GET /Teacher/Create responded 500 in 137.7847 ms
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 14:07:35.300 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in E:\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+2024-08-21 14:08:19.459 +05:30 [INF] Starting web application
+2024-08-21 14:08:19.799 +05:30 [INF] HTTP GET / responded 200 in 106.1461 ms
+2024-08-21 14:08:19.822 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 8.1027 ms
+2024-08-21 14:08:21.275 +05:30 [ERR] HTTP GET /Teacher/Create responded 500 in 138.3412 ms
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 14:08:21.313 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in E:\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+2024-08-21 14:08:27.003 +05:30 [INF] HTTP GET /Student responded 200 in 2045.8913 ms
+2024-08-21 14:08:27.025 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 304 in 4.0709 ms
+2024-08-21 14:08:27.029 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.2011 ms
+2024-08-21 14:08:27.033 +05:30 [INF] HTTP GET /js/site.js responded 304 in 0.1563 ms
+2024-08-21 14:08:27.036 +05:30 [INF] HTTP GET /css/site.css responded 304 in 7.1255 ms
+2024-08-21 14:08:27.042 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 304 in 0.1782 ms
+2024-08-21 14:08:27.042 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 304 in 0.0928 ms
+2024-08-21 14:10:38.476 +05:30 [INF] Starting web application
+2024-08-21 14:10:38.822 +05:30 [INF] HTTP GET / responded 200 in 106.7316 ms
+2024-08-21 14:10:38.861 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 7.7422 ms
+2024-08-21 14:10:40.676 +05:30 [ERR] HTTP GET /Teacher/Create responded 500 in 145.5153 ms
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 14:10:40.714 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in E:\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+2024-08-21 14:10:47.004 +05:30 [INF] HTTP GET /Teacher responded 404 in 0.0773 ms
+2024-08-21 14:10:51.795 +05:30 [INF] HTTP GET / responded 200 in 1.7432 ms
+2024-08-21 14:10:51.832 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.3142 ms
+2024-08-21 14:10:52.973 +05:30 [ERR] HTTP GET /Teacher/Create responded 500 in 7.5270 ms
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 14:10:52.998 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Teacher/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper.ProcessAsync(TagHelperContext context, TagHelperOutput output)
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperRunner.<RunAsync>g__Awaited|0_0(Task task, TagHelperExecutionContext executionContext, Int32 i, Int32 count)
+   at AspNetCoreGeneratedDocument.Views_Teacher_Create.<ExecuteAsync>b__23_1()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__28_1()
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in E:\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+2024-08-21 14:11:45.042 +05:30 [INF] Starting web application
+2024-08-21 14:11:45.404 +05:30 [INF] HTTP GET / responded 200 in 116.4845 ms
+2024-08-21 14:11:45.430 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 7.7862 ms
+2024-08-21 14:11:46.433 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 45.8221 ms
+2024-08-21 14:11:46.447 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1323 ms
+2024-08-21 14:13:30.834 +05:30 [INF] Starting web application
+2024-08-21 14:13:31.175 +05:30 [INF] HTTP GET / responded 200 in 103.9178 ms
+2024-08-21 14:13:31.209 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 11.0914 ms
+2024-08-21 14:13:34.893 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 50.8197 ms
+2024-08-21 14:13:34.909 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1320 ms
+2024-08-21 14:14:02.182 +05:30 [INF] HTTP POST /Teacher/Create responded 302 in 1211.8292 ms
+2024-08-21 14:14:02.188 +05:30 [INF] HTTP GET /Teacher responded 404 in 0.0381 ms
+2024-08-21 14:15:01.603 +05:30 [INF] Starting web application
+2024-08-21 14:15:01.962 +05:30 [INF] HTTP GET / responded 200 in 104.0915 ms
+2024-08-21 14:15:01.989 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 7.9703 ms
+2024-08-21 14:15:03.596 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 39.5487 ms
+2024-08-21 14:15:03.609 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1430 ms
+2024-08-21 14:15:03.629 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 304 in 14.1589 ms
+2024-08-21 14:15:03.629 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 304 in 14.1589 ms
+2024-08-21 14:15:29.457 +05:30 [INF] Starting web application
+2024-08-21 14:15:29.817 +05:30 [INF] HTTP GET / responded 200 in 108.3583 ms
+2024-08-21 14:15:29.846 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 8.8839 ms
+2024-08-21 14:15:31.606 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 60.4693 ms
+2024-08-21 14:15:31.630 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 2.7406 ms
+2024-08-21 14:16:13.495 +05:30 [INF] Starting web application
+2024-08-21 14:16:13.958 +05:30 [INF] HTTP GET / responded 200 in 218.4943 ms
+2024-08-21 14:16:13.992 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 7.9334 ms
+2024-08-21 14:16:15.276 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 230.7710 ms
+2024-08-21 14:16:15.289 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.2096 ms
+2024-08-21 14:16:37.443 +05:30 [INF] HTTP POST /Teacher/Create responded 302 in 1223.1335 ms
+2024-08-21 14:16:37.450 +05:30 [INF] HTTP GET /Teacher responded 404 in 0.0413 ms
+2024-08-21 14:17:24.463 +05:30 [INF] Starting web application
+2024-08-21 14:17:24.814 +05:30 [INF] HTTP GET / responded 200 in 107.6679 ms
+2024-08-21 14:17:24.836 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 6.9026 ms
+2024-08-21 14:17:26.720 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 43.6853 ms
+2024-08-21 14:17:26.738 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1712 ms
+2024-08-21 14:18:19.642 +05:30 [INF] HTTP POST /Teacher/Create responded 302 in 38732.9908 ms
+2024-08-21 14:18:19.660 +05:30 [INF] HTTP GET /Teacher responded 404 in 0.0334 ms
+2024-08-21 14:19:34.509 +05:30 [INF] Starting web application
+2024-08-21 14:19:34.851 +05:30 [INF] HTTP GET / responded 200 in 102.9295 ms
+2024-08-21 14:19:34.881 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 10.4127 ms
+2024-08-21 14:21:23.293 +05:30 [INF] Starting web application
+2024-08-21 14:21:23.632 +05:30 [INF] HTTP GET / responded 200 in 106.0828 ms
+2024-08-21 14:21:23.662 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 7.4829 ms
+2024-08-21 14:21:25.779 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 39.6919 ms
+2024-08-21 14:21:25.798 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1434 ms
+2024-08-21 14:21:43.447 +05:30 [INF] HTTP POST /Teacher/Create responded 302 in 3167.3180 ms
+2024-08-21 14:21:43.490 +05:30 [INF] HTTP GET /Teacher responded 200 in 7.0075 ms
+2024-08-21 14:21:43.520 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 0.1977 ms
+2024-08-21 22:42:41.911 +05:30 [INF] Starting web application
+2024-08-21 22:42:43.877 +05:30 [INF] HTTP GET / responded 200 in 367.9520 ms
+2024-08-21 22:42:43.975 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 24.1089 ms
+2024-08-21 22:42:44.023 +05:30 [INF] HTTP GET /js/site.js responded 200 in 45.4900 ms
+2024-08-21 22:42:44.025 +05:30 [INF] HTTP GET /css/site.css responded 200 in 55.3118 ms
+2024-08-21 22:42:44.034 +05:30 [INF] HTTP GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js responded 200 in 97.2842 ms
+2024-08-21 22:42:44.034 +05:30 [INF] HTTP GET /lib/jquery/dist/jquery.min.js responded 200 in 105.4401 ms
+2024-08-21 22:42:44.035 +05:30 [INF] HTTP GET /lib/bootstrap/dist/css/bootstrap.min.css responded 200 in 106.8864 ms
+2024-08-21 22:42:44.877 +05:30 [INF] HTTP GET /favicon.ico responded 200 in 15.7416 ms
+2024-08-21 22:42:58.098 +05:30 [INF] HTTP GET /Subject responded 404 in 0.6539 ms
+2024-08-21 22:49:54.089 +05:30 [INF] Starting web application
+2024-08-21 22:49:54.711 +05:30 [INF] HTTP GET / responded 200 in 191.2573 ms
+2024-08-21 22:49:54.749 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 3.4253 ms
+2024-08-21 23:00:28.482 +05:30 [INF] Starting web application
+2024-08-21 23:00:29.471 +05:30 [INF] HTTP GET / responded 200 in 366.7704 ms
+2024-08-21 23:00:29.497 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 9.6836 ms
+2024-08-21 23:00:32.930 +05:30 [INF] HTTP GET /Teacher/Create responded 200 in 147.2655 ms
+2024-08-21 23:00:32.976 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 3.6982 ms
+2024-08-21 23:00:33.013 +05:30 [INF] HTTP GET /lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js responded 200 in 40.2793 ms
+2024-08-21 23:00:33.023 +05:30 [INF] HTTP GET /lib/jquery-validation/dist/jquery.validate.min.js responded 200 in 54.8854 ms
+2024-08-21 23:00:34.201 +05:30 [INF] HTTP GET /Subject/Create responded 404 in 0.1394 ms
+2024-08-21 23:02:44.067 +05:30 [INF] Starting web application
+2024-08-21 23:02:44.488 +05:30 [INF] HTTP GET / responded 200 in 133.1261 ms
+2024-08-21 23:02:44.526 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 8.4567 ms
+2024-08-21 23:03:04.202 +05:30 [ERR] An error occurred using the connection to database 'mohit_db' on server '192.168.11.90\MSSQL2019'.
+2024-08-21 23:03:04.252 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'Domain.Context.SchoolContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+2024-08-21 23:03:04.412 +05:30 [ERR] HTTP GET /Subject/Add responded 500 in 17842.9449 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Application.Common.CQRS.Query.GetAllTeachersQueryHandler.Handle(GetAllTeachersQuery request, CancellationToken cancellationToken) in D:\Dotnet Test\OneToManyRelation\Application\Common\CQRS\Query\GetAllTeachersQuery.cs:line 36
+   at StudentTeacherManagement.Controllers.SubjectController.Add() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Controllers\SubjectController.cs:line 27
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+2024-08-21 23:03:04.550 +05:30 [ERR] An unhandled exception occurred.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Application.Common.CQRS.Query.GetAllTeachersQueryHandler.Handle(GetAllTeachersQuery request, CancellationToken cancellationToken) in D:\Dotnet Test\OneToManyRelation\Application\Common\CQRS\Query\GetAllTeachersQuery.cs:line 36
+   at StudentTeacherManagement.Controllers.SubjectController.Add() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Controllers\SubjectController.cs:line 27
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in D:\Dotnet Test\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+2024-08-21 23:05:36.270 +05:30 [ERR] An error occurred using the connection to database 'mohit_db' on server '192.168.11.90\MSSQL2019'.
+2024-08-21 23:05:36.274 +05:30 [ERR] An exception occurred while iterating over the results of a query for context type 'Domain.Context.SchoolContext'.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+2024-08-21 23:05:36.425 +05:30 [ERR] HTTP GET /Subject/Add responded 500 in 115519.3750 ms
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Application.Common.CQRS.Query.GetAllTeachersQueryHandler.Handle(GetAllTeachersQuery request, CancellationToken cancellationToken) in D:\Dotnet Test\OneToManyRelation\Application\Common\CQRS\Query\GetAllTeachersQuery.cs:line 36
+   at StudentTeacherManagement.Controllers.SubjectController.Add() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Controllers\SubjectController.cs:line 27
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+2024-08-21 23:05:36.545 +05:30 [ERR] An unhandled exception occurred.
+Microsoft.Data.SqlClient.SqlException (0x80131904): A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.Connect(ServerInfo serverInfo, SqlInternalConnectionTds connHandler, Boolean ignoreSniOpenTimeout, Int64 timerExpire, SqlConnectionString connectionOptions, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.AttemptOneLogin(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean ignoreSniOpenTimeout, TimeoutTimer timeout, Boolean withFailover)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.LoginNoFailover(ServerInfo serverInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString connectionOptions, SqlCredential credential, TimeoutTimer timeout)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.OpenLoginEnlist(TimeoutTimer timeout, SqlConnectionString connectionOptions, SqlCredential credential, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, Boolean applyTransientFaultHandling, String accessToken, DbConnectionPool pool)
+   at Microsoft.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at Microsoft.Data.ProviderBase.DbConnectionPool.WaitForPendingOpen()
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.EntityFrameworkQueryableExtensions.ToListAsync[TSource](IQueryable`1 source, CancellationToken cancellationToken)
+   at Application.Common.CQRS.Query.GetAllTeachersQueryHandler.Handle(GetAllTeachersQuery request, CancellationToken cancellationToken) in D:\Dotnet Test\OneToManyRelation\Application\Common\CQRS\Query\GetAllTeachersQuery.cs:line 36
+   at StudentTeacherManagement.Controllers.SubjectController.Add() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Controllers\SubjectController.cs:line 27
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in D:\Dotnet Test\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:-1,State:0,Class:20
+2024-08-21 23:08:31.487 +05:30 [INF] Starting web application
+2024-08-21 23:08:32.052 +05:30 [INF] HTTP GET / responded 200 in 169.9307 ms
+2024-08-21 23:08:32.122 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 3.7617 ms
+2024-08-21 23:11:05.935 +05:30 [INF] Starting web application
+2024-08-21 23:11:06.326 +05:30 [INF] HTTP GET / responded 200 in 122.6996 ms
+2024-08-21 23:11:06.358 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 3.7223 ms
+2024-08-21 23:11:12.794 +05:30 [ERR] HTTP GET /Subject/Add responded 500 in 5144.3206 ms
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Subject/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at AspNetCoreGeneratedDocument.Views_Subject_Add.<ExecuteAsync>b__17_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Subject\Add.cshtml:line 46
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__30_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Shared\_Layout.cshtml:line 57
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 23:11:12.880 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Subject/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at AspNetCoreGeneratedDocument.Views_Subject_Add.<ExecuteAsync>b__17_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Subject\Add.cshtml:line 46
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__30_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Shared\_Layout.cshtml:line 57
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in D:\Dotnet Test\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
+2024-08-21 23:13:24.368 +05:30 [ERR] Failed executing DbCommand (15ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Language] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Language] PRIMARY KEY ([Id])
+);
+2024-08-21 23:18:06.611 +05:30 [ERR] Failed executing DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [NewLanguage] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Language] PRIMARY KEY ([Id])
+);
+2024-08-21 23:18:24.534 +05:30 [ERR] Failed executing DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Students] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Age] int NOT NULL,
+    [Image] nvarchar(max) NOT NULL,
+    [Class] nvarchar(max) NOT NULL,
+    [RollNumber] int NOT NULL,
+    CONSTRAINT [PK_Students] PRIMARY KEY ([Id])
+);
+2024-08-21 23:19:13.314 +05:30 [ERR] Failed executing DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Subjects] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [Class] nvarchar(max) NOT NULL,
+    [Languages] nvarchar(max) NOT NULL,
+    CONSTRAINT [PK_Subjects] PRIMARY KEY ([Id])
+);
+2024-08-21 23:19:56.906 +05:30 [ERR] Failed executing DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [SubjectTeacher] (
+    [SubjectsId] int NOT NULL,
+    [TeachersId] int NOT NULL,
+    CONSTRAINT [PK_SubjectTeacher] PRIMARY KEY ([SubjectsId], [TeachersId]),
+    CONSTRAINT [FK_SubjectTeacher_Subjects_SubjectsId] FOREIGN KEY ([SubjectsId]) REFERENCES [Subjects] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_SubjectTeacher_Teachers_TeachersId] FOREIGN KEY ([TeachersId]) REFERENCES [Teachers] ([Id]) ON DELETE CASCADE
+);
+2024-08-21 23:20:18.191 +05:30 [ERR] Failed executing DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [NewSubjectTeacher] (
+    [SubjectsId] int NOT NULL,
+    [TeachersId] int NOT NULL,
+    CONSTRAINT [PK_NewSubjectTeacher] PRIMARY KEY ([SubjectsId], [TeachersId]),
+    CONSTRAINT [FK_SubjectTeacher_Subjects_SubjectsId] FOREIGN KEY ([SubjectsId]) REFERENCES [Subjects] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_SubjectTeacher_Teachers_TeachersId] FOREIGN KEY ([TeachersId]) REFERENCES [Teachers] ([Id]) ON DELETE CASCADE
+);
+2024-08-21 23:20:44.167 +05:30 [ERR] Failed executing DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [NewSubjectTeacher] (
+    [SubjectsId] int NOT NULL,
+    [TeachersId] int NOT NULL,
+    CONSTRAINT [PK_NewSubjectTeacher] PRIMARY KEY ([SubjectsId], [TeachersId]),
+    CONSTRAINT [FK_SubjectTeacher_Subjects_SubjectsId] FOREIGN KEY ([SubjectsId]) REFERENCES [Subjects] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_NewSubjectTeacher_NewTeachers_TeachersId] FOREIGN KEY ([TeachersId]) REFERENCES [Teachers] ([Id]) ON DELETE CASCADE
+);
+2024-08-21 23:21:55.820 +05:30 [ERR] Failed executing DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_SubjectTeacher_TeachersId] ON [SubjectTeacher] ([TeachersId]);
+2024-08-21 23:23:02.408 +05:30 [INF] Starting web application
+2024-08-21 23:23:03.404 +05:30 [INF] HTTP GET / responded 200 in 305.5873 ms
+2024-08-21 23:23:03.474 +05:30 [INF] HTTP GET /OneToManyRelation.styles.css responded 404 in 4.5454 ms
+2024-08-21 23:23:15.514 +05:30 [ERR] HTTP GET /Subject/Add responded 500 in 6594.1539 ms
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Subject/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at AspNetCoreGeneratedDocument.Views_Subject_Add.<ExecuteAsync>b__17_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Subject\Add.cshtml:line 46
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__30_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Shared\_Layout.cshtml:line 57
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2024-08-21 23:23:15.671 +05:30 [ERR] An unhandled exception occurred.
+System.InvalidOperationException: The partial view '_ValidationScriptsPartial' was not found. The following locations were searched:
+/Views/Subject/_ValidationScriptsPartial.cshtml
+/Views/Shared/_ValidationScriptsPartial.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.HtmlHelper.RenderPartialCoreAsync(String partialViewName, Object model, ViewDataDictionary viewData, TextWriter writer)
+   at AspNetCoreGeneratedDocument.Views_Subject_Add.<ExecuteAsync>b__17_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Subject\Add.cshtml:line 46
+   at Microsoft.AspNetCore.Mvc.Razor.RazorPage.RenderSectionAsyncCore(String sectionName, Boolean required)
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.<ExecuteAsync>b__30_1() in D:\Dotnet Test\OneToManyRelation\OneToManyRelation\Views\Shared\_Layout.cshtml:line 57
+   at Microsoft.AspNetCore.Razor.Runtime.TagHelpers.TagHelperExecutionContext.SetOutputContentAsync()
+   at AspNetCoreGeneratedDocument.Views_Shared__Layout.ExecuteAsync()
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderLayoutAsync(ViewContext context, ViewBufferTextWriter bodyWriter)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Infrastructure.CustomMiddleware.ErrorHandlingMiddleware.InvokeAsync(HttpContext httpContext) in D:\Dotnet Test\OneToManyRelation\Infrastructure\CustomMiddleware\ErrorHandlingMiddleware.cs:line 26
